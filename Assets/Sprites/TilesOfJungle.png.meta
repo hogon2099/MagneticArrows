@@ -1,0 +1,874 @@
+fileFormatVersion: 2
+guid: 299639d0321e21047aeba352eea60136
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2814464551254688881
+    second: TilesOfJungle_0
+  - first:
+      213: -3482874273696627884
+    second: TilesOfJungle_1
+  - first:
+      213: -8970552231898373336
+    second: TilesOfJungle_2
+  - first:
+      213: 3119527268042938932
+    second: TilesOfJungle_3
+  - first:
+      213: -2238006292314211766
+    second: TilesOfJungle_4
+  - first:
+      213: 8241532029821261169
+    second: TilesOfJungle_5
+  - first:
+      213: -394091635914692551
+    second: TilesOfJungle_6
+  - first:
+      213: -798021064200883165
+    second: TilesOfJungle_7
+  - first:
+      213: 4964043437840117925
+    second: TilesOfJungle_8
+  - first:
+      213: -2163902672355584331
+    second: TilesOfJungle_9
+  - first:
+      213: 2021989805387016175
+    second: TilesOfJungle_10
+  - first:
+      213: -7465369699818390589
+    second: TilesOfJungle_11
+  - first:
+      213: 1471351262257214984
+    second: TilesOfJungle_12
+  - first:
+      213: -3140209061891212111
+    second: TilesOfJungle_13
+  - first:
+      213: -4403713213509637272
+    second: TilesOfJungle_14
+  - first:
+      213: -212822423844339102
+    second: TilesOfJungle_15
+  - first:
+      213: 7602926447363441275
+    second: TilesOfJungle_16
+  - first:
+      213: -1325200357053768396
+    second: TilesOfJungle_17
+  - first:
+      213: -1753596712232730380
+    second: TilesOfJungle_18
+  - first:
+      213: -7353108019809767099
+    second: TilesOfJungle_19
+  - first:
+      213: -1600680862590248313
+    second: TilesOfJungle_20
+  - first:
+      213: -1199539052234921915
+    second: TilesOfJungle_21
+  - first:
+      213: -4105981545583123597
+    second: TilesOfJungle_22
+  - first:
+      213: 4923749669194187337
+    second: TilesOfJungle_23
+  - first:
+      213: 346322775869520168
+    second: TilesOfJungle_24
+  - first:
+      213: -8540717401655719371
+    second: TilesOfJungle_25
+  - first:
+      213: -3954470428597002179
+    second: TilesOfJungle_26
+  - first:
+      213: -2173343207070720213
+    second: TilesOfJungle_27
+  - first:
+      213: -4835023040035665365
+    second: TilesOfJungle_28
+  - first:
+      213: 661244496532337121
+    second: TilesOfJungle_29
+  - first:
+      213: 5021380833958088511
+    second: TilesOfJungle_30
+  - first:
+      213: 8561645761672668862
+    second: TilesOfJungle_31
+  - first:
+      213: 1602975560224016464
+    second: TilesOfJungle_32
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 215
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TilesOfJungle_0
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 716
+        width: 216
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1740772099cfe0720800000000000000
+      internalID: 2814464551254688881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesOfJungle_1
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 716
+        width: 216
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45347f61d485aafc0800000000000000
+      internalID: -3482874273696627884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesOfJungle_2
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 716
+        width: 216
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8232c9ae542328380800000000000000
+      internalID: -8970552231898373336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesOfJungle_3
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 716
+        width: 216
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a18d6b589ca4b20800000000000000
+      internalID: 3119527268042938932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesOfJungle_4
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 716
+        width: 216
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ab585722101f0e0800000000000000
+      internalID: -2238006292314211766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesOfJungle_5
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 716
+        width: 217
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 175108237bdcf5270800000000000000
+      internalID: 8241532029821261169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesOfJungle_6
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 716
+        width: 216
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9382a50ceb7e78af0800000000000000
+      internalID: -394091635914692551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesOfJungle_7
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 716
+        width: 216
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324f609f11cdce4f0800000000000000
+      internalID: -798021064200883165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesOfJungle_8
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 491
+        width: 216
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0b112c433d3e440800000000000000
+      internalID: 4964043437840117925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesOfJungle_9
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 491
+        width: 216
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b61abdfbf548f1e0800000000000000
+      internalID: -2163902672355584331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesOfJungle_10
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 492
+        width: 216
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe7ed89d30d8f0c10800000000000000
+      internalID: 2021989805387016175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesOfJungle_11
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 491
+        width: 216
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb3c5dafcda56890800000000000000
+      internalID: -7465369699818390589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesOfJungle_12
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 492
+        width: 216
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 806f9ae6d2a4b6410800000000000000
+      internalID: 1471351262257214984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesOfJungle_13
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 491
+        width: 217
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bcf289ee7cbb64d0800000000000000
+      internalID: -3140209061891212111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesOfJungle_14
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 491
+        width: 216
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b60180a2ed2e2c0800000000000000
+      internalID: -4403713213509637272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesOfJungle_15
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 492
+        width: 216
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26245821227eb0df0800000000000000
+      internalID: -212822423844339102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesOfJungle_16
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 257
+        width: 216
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7245846255038960800000000000000
+      internalID: 7602926447363441275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesOfJungle_17
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 257
+        width: 217
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43dd695eb41fb9de0800000000000000
+      internalID: -1325200357053768396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesOfJungle_18
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 257
+        width: 216
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f04318c419f9a7e0800000000000000
+      internalID: -1753596712232730380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesOfJungle_19
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 257
+        width: 216
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 541b924e63384f990800000000000000
+      internalID: -7353108019809767099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesOfJungle_20
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 257
+        width: 216
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ada8a7c3d39c9e0800000000000000
+      internalID: -1600680862590248313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesOfJungle_21
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 257
+        width: 216
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 548245166916a5fe0800000000000000
+      internalID: -1199539052234921915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesOfJungle_22
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 257
+        width: 216
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3736539e98f9407c0800000000000000
+      internalID: -4105981545583123597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesOfJungle_23
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 256
+        width: 216
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 942444bac3ca45440800000000000000
+      internalID: 4923749669194187337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesOfJungle_24
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 23
+        width: 216
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8297451dab26ec400800000000000000
+      internalID: 346322775869520168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesOfJungle_25
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 23
+        width: 216
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a405b16c6497980800000000000000
+      internalID: -8540717401655719371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesOfJungle_26
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 23
+        width: 216
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3060bcc816ee19c0800000000000000
+      internalID: -3954470428597002179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesOfJungle_27
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 23
+        width: 216
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f9a873edbb6d1e0800000000000000
+      internalID: -2173343207070720213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesOfJungle_28
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 23
+        width: 216
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a48d1892c86ecb0800000000000000
+      internalID: -4835023040035665365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesOfJungle_29
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 23
+        width: 216
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e1fd7dbd563d2900800000000000000
+      internalID: 661244496532337121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesOfJungle_30
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 23
+        width: 216
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3fc60a93478fa540800000000000000
+      internalID: 5021380833958088511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesOfJungle_31
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 24
+        width: 216
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb66a3d657311d670800000000000000
+      internalID: 8561645761672668862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
