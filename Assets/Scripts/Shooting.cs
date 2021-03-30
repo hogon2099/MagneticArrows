@@ -25,8 +25,11 @@ public class Shooting : MonoBehaviour
 
 		if(Input.GetMouseButtonDown(1))
 		{
-			GameObject.Destroy(arrows.Peek());
-			arrows.Pop();
+			if (arrows.Count > 0)
+			{
+				GameObject.Destroy(arrows.Peek());
+				arrows.Pop();
+			}
 		}
 
 		if (Input.GetMouseButtonDown(0))
